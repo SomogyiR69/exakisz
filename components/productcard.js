@@ -7,7 +7,7 @@ const varrogep = [
     id: 1,
     name: "Exatex EX-1510 hármastovábbítású ipari varrógép",
     price: "535 000 Ft",
-    imageSrc: "/../public/ex1510.png",
+    imageSrc: "/ex1510.png",
     imageAlt: "image",
     description:
       "Vastag árus hármas továbbítású varrógép állvánnyal 750 Wattos szervo motorral, tű holtpont megállítóval kompletten állvánnyal asztallappal. Maximális öltéshossz: 11mm, Maximális öltésszám: 2000 öltés/perc, Maximális talpemél: 20mm, Tű típus: 134-35, 230 Vol, 750 Watt",
