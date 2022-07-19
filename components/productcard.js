@@ -16,7 +16,7 @@ const varrogep = [
     id: 2,
     name: "Exatex EX-335B karos hármastovábbítású varrógép nagy körforgóval",
     price: "290 000 Ft",
-    imageSrc: "/../public/EX-335.png",
+    imageSrc: "/EX-335.png",
     imageAlt: "image",
     description:
       "Hármas továbbítású karos bőrvarró gép kompletten állvánnyal asztallappal. Főbb jellemzők: Energiatakarékos szervo motorral, térdemelővel, maximális öltéshossz: 5mm, maximális fordulatszám: 2200 öltés/perc., Műszaki adatok: 230 Volt, 750Watt.",
